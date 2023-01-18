@@ -1,15 +1,14 @@
 <div>
 	<p align="center">
-		<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-		<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> 
+		<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+		<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
 	</p>
 </div>
-<div>
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thebjko)](https://solved.ac/thebjko/)
-</div>
-<div>
 
-</div>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thebjko)](https://solved.ac/thebjko)
+
+[![thebjko's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebjko)](https://github.com/thebjko)
 
 # 목표
 제 가정, 제 주변이 다른 사람이 쉴만한 곳이 되었으면 좋겠어요
