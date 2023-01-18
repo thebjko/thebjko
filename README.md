@@ -1,4 +1,15 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthebjko&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div>
+	<p align="center">
+		<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+		<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> 
+	</p>
+</div>
+<div>
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thebjko)](https://solved.ac/thebjko/)
+</div>
+<div>
+
+</div>
 
 # 목표
 제 가정, 제 주변이 다른 사람이 쉴만한 곳이 되었으면 좋겠어요
