@@ -5,14 +5,14 @@
 	</p>
 </div>
 
-<p align="center">
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thebjko)](https://solved.ac/thebjko)
-</p>
+<div align="center">
+	[![Solved.ac
+	프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thebjko)](https://solved.ac/thebjko)
+</div>
 
-<p align="center">
-[![thebjko's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebjko)](https://github.com/thebjko)
-</p>
+<div align="center">
+	[![thebjko's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebjko)](https://github.com/thebjko)
+</div>
 
 # 목표
 제 가정, 제 주변이 다른 사람이 쉴만한 곳이 되었으면 좋겠어요
