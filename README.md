@@ -6,12 +6,16 @@
 </div>
 
 <div align="center">
+
 	[![Solved.ac
 	프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thebjko/)](https://solved.ac/thebjko/)
+
 </div>
 
 <div align="center">
+	
 	[![thebjko's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebjko/)](https://github.com/thebjko/)
+	
 </div>
 
 # 목표
