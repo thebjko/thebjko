@@ -7,11 +7,10 @@
 
 <div align="center" float="left">
 
-	[![Solved.ac
-	프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thebjko/)](https://solved.ac/thebjko/)
-	
-	[![thebjko's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebjko/)](https://github.com/thebjko/)
-	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thebjko)](https://solved.ac/thebjko)
+
+[![thebjko's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebjko)](https://github.com/thebjko)
+
 </div>
 
 # 목표
