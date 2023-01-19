@@ -1,16 +1,25 @@
 <div align="center">
 	
-## 👋 BONGJIN 👋
+## 👋 BONG JIN 👋
 	
 </div>
 
-<div float="left">
+<p align="center">
+
+### 🛠 SKILL 🛠
+
+</p>
+
+<div align="center">
 	<p align="center">
 		<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 		<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
 	</p>
 </div>
-<div align="center" style="float:left">
+
+---
+
+<div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thebjko)](https://solved.ac/thebjko)
 
