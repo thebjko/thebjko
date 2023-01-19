@@ -1,18 +1,14 @@
-<div>
+<div float="left">
 	<p align="center">
 		<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 		<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
 	</p>
 </div>
 
-<div align="center">
+<div align="center" float="left">
 
 	[![Solved.ac
 	프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thebjko/)](https://solved.ac/thebjko/)
-
-</div>
-
-<div align="center">
 	
 	[![thebjko's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebjko/)](https://github.com/thebjko/)
 	
