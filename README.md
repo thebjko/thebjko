@@ -1,7 +1,9 @@
 <div align="center">
 
+<span>
   <img align="right" style="padding:10px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thebjko"/>
   <img align="right" style="padding:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebjko&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>  
+</span>
 
 
 ## 👋 BONG JIN 👋
