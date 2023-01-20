@@ -1,17 +1,14 @@
-<div align="center">
-
-<span>
+<div align="center" style="flex:1">
   <img align="right" style="padding:10px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thebjko"/>
   <img align="right" style="padding:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebjko&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>  
-</span>
+</div>
 
+<div align="center" style="flex:1">
 
 ## 👋 BONG JIN 👋
 
 📬 far2565@naver.com  
 🚀 멀티캠퍼스 파이썬 풀스택 취업캠프 2기  
-
-
 
 ### 🎯 목표 🎯
 
@@ -39,6 +36,8 @@
 </p>
 
 </div>
+
+
 
 
 
