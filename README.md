@@ -1,4 +1,4 @@
-<div>
+<div align="right">
 
 <img align="right" style="padding:10px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thebjko"/>
 
