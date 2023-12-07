@@ -25,4 +25,5 @@ Django 잘하기
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
 </p>
 ## 가치
+
 용기, 겸손, 너그러움, 같이가기, 재미(for fun)  
